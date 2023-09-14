@@ -1,7 +1,7 @@
 
-**Dataset**
-The dataset contains various details of individuals along with their salary classified either greater than 50K or less.
+**Dataset**:
 
+The dataset contains various details of individuals along with their salary classified either greater than 50K or less.
 Age: continuous.
 Workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 Fnlwgt: continuous.
