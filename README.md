@@ -1,4 +1,3 @@
----
 
 # Income Classification Dataset
 
